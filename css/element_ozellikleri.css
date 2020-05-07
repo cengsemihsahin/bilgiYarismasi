@@ -1,0 +1,55 @@
+i {
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    font-family: Verdana;
+    font-weight: bold;
+    font-style: normal;
+}
+
+iframe { /* 800x500 */
+    margin: 0;
+    padding: 0;
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+
+button {
+    margin: 0;
+    padding: 0;
+    color: black;
+    background-color: khaki;
+    font-size: 20px;
+    font-family: Verdana;
+    font-weight: bold;
+    border: 1px solid;
+    transition-property: background-color;
+    transition-duration: 600ms;
+}
+
+button:hover {
+    color: white;
+    background-color: #1d4035;
+    font-weight: normal;
+    border: 5px solid;
+}
+
+ul.kurallar {
+    margin: 10px 0 0 0;
+    padding: 0;
+    list-style-type: none;
+    line-height: 30px;
+}
+
+ul.kurallar li {
+    margin: 0 0 0 50px;
+    font-family: Verdana;
+    font-size: 18px;
+}
+
+ul.kurallar li:hover {
+    list-style-type: square;
+    background-color: aqua;
+}
+

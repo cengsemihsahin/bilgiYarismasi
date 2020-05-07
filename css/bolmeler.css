@@ -1,0 +1,95 @@
+/*
+    BOLMELERIN OZELLIKLERI
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.ana {
+    width: 1200px;
+    height: 700px;
+    margin: 20px auto;
+}
+
+.bolum1 {
+    float: left;
+    width: 1200px;
+    height: 200px;
+}
+
+.bolum2 {
+    float: left;
+    width: 1200px;
+    height: 500px;
+}
+
+.durum { /* SURE, PUAN, SORU SAYISI... */
+    width: 800px;
+    height: 200px;
+    float: left;
+    text-align: center;
+}
+
+.bilinen_soru_sayisi {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.toplam_puan {
+    width: 300px;
+    height: 199px;
+    padding: 1px 0 0 0;
+    float: left;
+}
+
+.sorunun_puani {
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+
+.butonlar { /* BASLA, BITIR */
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+
+.butonlar_ust {
+    width: 400px;
+    height: 105px;
+    padding: 15px 0 0 0;
+    float: left;
+    text-align: center;
+}
+
+.butonlar_alt {
+    width: 400px;
+    height: 80px;
+    float: left;
+}
+
+.cerceve { /* SAYFALAR */
+    float: left;
+    width: 800px;
+    height: 500px;
+}
+
+.butonlar2 { /* SECENEKLER, JOKERLER */
+    width: 400px;
+    height: 500px;
+    float: right;
+}
+
+.butonlar_jokerler, .butonlar_secenekler {
+    width: 400px;
+    height: 150px;
+    float: left;
+}
+
+.butonlar_secenekler {
+    height: 350px;
+}
+

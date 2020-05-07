@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Soru 4</title>
+    <style type="text/css">
+        @import "../css/class_tanimlamalari.css";
+    </style>
+    <script src="../js/jquery-3.5.0.min.js"></script>
+    <script src="../js/soru_suresini_tetikle_script.js"></script>
+	<script src='../js/jquery-1.8.3.min.js'></script>
+	<script src='../js/jquery.elevatezoom.js'></script>
+</head>
+<body>
+    <main class="cerceve_boyutum">  <!-- yanit A -->
+        <h1 class="soru_basligi">Soru 4</h1>
+        <img src="../assets/soru_4.jpg" class="soru_4_resim">
+        <p style="font-size: 30px; margin: 50px 0 0 380px;">Yandaki tablo kime aittir?</p>
+        <ul class="secenek_listesi" style="float: left; margin: 20px 0 0 0; font-size: 30px;">
+            <li id="a_sikki">Osman Hamdi Bey</li>
+            <li id="b_sikki">Seker Ahmet Pasa</li>
+            <li id="c_sikki">Ibrahim Calli</li>
+            <li id="d_sikki">Fikret Mualla</li>
+        </ul>
+    </main>
+	<script>
+		$('.soru_4_resim').elevateZoom({
+			zoomType: "inner",
+			cursor: "crosshair",
+			zoomWindowFadeIn: 500,
+			zoomWindowFadeOut: 750
+		});
+	</script>
+</body>
+</html>

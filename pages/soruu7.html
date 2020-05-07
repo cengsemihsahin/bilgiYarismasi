@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Soru 7</title>
+    <style type="text/css">
+        @import "../css/class_tanimlamalari.css";
+    </style>
+    <script src="../js/jquery-3.5.0.min.js"></script>
+    <script src="../js/soru_suresini_tetikle_script.js"></script>
+	<script src='../js/jquery-1.8.3.min.js'></script>
+	<script src='../js/jquery.elevatezoom.js'></script>
+</head>
+<body>
+
+    <main class="cerceve_boyutum">  <!-- yanit C -->
+        <h1 class="soru_basligi">Soru 7</h1>
+        <img src="../assets/soru_7.jpg" class="soru_7_resim">
+        <p style="font-size: 30px; margin: 50px 0 0 0;">En uzun sure tahtta kalan padisah kimdir?</p><br>
+        <ul class="secenek_listesi" style="float: left; margin: 10px 0 0 20px; font-size: 25px;">
+            <li id="a_sikki">Osman Gazi</li>
+            <li id="b_sikki">4. Murat</li>
+            <li id="c_sikki">Kanuni Suleyman</li>
+            <li id="d_sikki">Fatih Sultan Mehmet</li>
+        </ul>
+		<script>
+		$('.soru_7_resim').elevateZoom({
+			zoomType: "inner",
+			cursor: "crosshair",
+			zoomWindowFadeIn: 500,
+			zoomWindowFadeOut: 750
+		});
+	</script>
+    </main>
+
+</body>
+</html>

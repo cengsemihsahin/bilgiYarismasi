@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bilgi Yarismasi</title>
+    <style type="text/css">
+        @import "css/bolmeler.css";
+        @import "css/element_ozellikleri.css";
+        @import "css/id_tanimlamalari.css";
+        @import "css/class_tanimlamalari.css";
+    </style>
+    <script src="js/jquery-3.5.0.min.js"></script>
+    <script src="js/yarisma_script.js"></script>
+</head>
+<body>
+    <main class="ana">
+        <div class="bolum1"><!-- DURUM -->
+            <div class="durum">
+                <div class="bilinen_soru_sayisi">
+                    <i id="bilinen_soru_adedi">Bilinen soru adedi:<br><br>0</i>
+                </div>
+                <div class="toplam_puan">
+                    <i id="toplam_puan_durumu">Toplam puan:<br><br><br>0</i>
+                </div>
+                <div class="sorunun_puani">
+                    <i id="simdiki_sorunun_puani">Simdiki sorunun puani:<br><br>0</i>
+                </div>
+            </div>
+            <div class="butonlar">
+                <div class="butonlar_ust">
+                    <b class="kronometre">Kronometre: -</b><button id="kronometreyiKapat">durdur</button><br>
+                    <i id="soru_kalan_zaman">SORU ICIN KALAN SURE:<br>0 saniye</i>
+                </div>
+                <div class="butonlar_alt">
+                    <div class="basla_bitir_butonu">
+                        <button id="baslama_butonu">Yarismaya basla</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bolum2"><!-- SORU -->
+            <div class="cerceve">
+                <iframe name="soru_sayfasi" src="pages\baslangic.html" id="cerceve_id"></iframe>
+            </div>
+            <div class="butonlar2">
+                <div class="butonlar_jokerler">
+                    <div class="joker_butonlari">
+                        <button id="yari_yariya_joker">50% Joker<br>Hakki</button>
+                        <button id="cift_cevap_joker">x2 Joker<br>Hakki</button>
+                    </div>
+                </div>
+                <div class="butonlar_secenekler">
+                    <div class="secenek_butonlari">
+                        <button id="a_secenegi">A</button><br>
+                        <button id="b_secenegi">B</button><br>
+                        <button id="c_secenegi">C</button><br>
+                        <button id="d_secenegi">D</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

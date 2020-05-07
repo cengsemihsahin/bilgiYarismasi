@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92788144-4555-445e-b3b7-214b6329ace1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bQua6teQiAKPrUDfhtRVbxw7MZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="template.copyright.formatting" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bilgi_yarismasi/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92788144-4555-445e-b3b7-214b6329ace1" name="Default Changelist" comment="" />
+      <created>1588576698556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588576698556</updated>
+      <workItem from="1588576699760" duration="1519000" />
+      <workItem from="1588616472404" duration="15114000" />
+      <workItem from="1588632202870" duration="2852000" />
+      <workItem from="1588637305570" duration="756000" />
+      <workItem from="1588659852613" duration="4367000" />
+      <workItem from="1588668597375" duration="8438000" />
+      <workItem from="1588685272051" duration="4962000" />
+      <workItem from="1588700558787" duration="2264000" />
+      <workItem from="1588702911650" duration="158000" />
+      <workItem from="1588703440403" duration="894000" />
+      <workItem from="1588704385141" duration="11848000" />
+      <workItem from="1588716988441" duration="1637000" />
+      <workItem from="1588741282072" duration="16915000" />
+      <workItem from="1588758365103" duration="2527000" />
+      <workItem from="1588764373580" duration="11999000" />
+      <workItem from="1588777056791" duration="4451000" />
+      <workItem from="1588781992420" duration="10637000" />
+      <workItem from="1588796668703" duration="7900000" />
+      <workItem from="1588804642300" duration="1188000" />
+      <workItem from="1588805863799" duration="9871000" />
+      <workItem from="1588815849048" duration="543000" />
+      <workItem from="1588838174845" duration="3892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1588704337859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588704337859" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1588704337859">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588704337859" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1588704337860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1588704337860" />
+    <state x="445" y="110" key="SettingsEditor" timestamp="1588618003614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="445" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588618003614" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588779951180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588779951180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/yarisma_script.js</url>
+          <line>220</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

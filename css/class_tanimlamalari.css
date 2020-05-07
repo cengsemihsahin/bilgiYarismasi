@@ -1,0 +1,161 @@
+.cerceve_boyutu, .cerceve_boyutum {   /*sorular ve yonlendirmeler*/
+    width: 790px;
+    height: 280px;
+    margin: 0;
+    padding: 200px 0 0 0;
+    color: black;
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: center;
+}
+
+.ozel_cerceve_boyutum {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    background-image: url(../assets/soru_6_arkaplan.gif);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    min-height: 100%;
+    background-position: center center;
+    color: white;
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 40px;
+    text-align: left;
+}
+
+.cerceve_boyutum {
+    height: 480px;
+    padding: 0;
+    text-align: left;
+}
+
+.kutucuk {
+    width: 790px;
+    height: 280px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.cerceve_boyutum h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.cerceve_boyutum p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.cerceve_boyutum img.soru_2_resim, .cerceve_boyutum img.soru_4_resim {
+    width: 350px;
+    margin: 85px 0 0 40px;
+    padding: 0;
+    float: left;
+}
+
+.cerceve_boyutum img.soru_4_resim {
+    margin: 20px 0 0 0;
+}
+
+.cerceve_boyutum img.soru_5_resim {
+    width: 105px;
+    height: 105px;
+    margin: 25px;
+    padding: 0;
+    float: left;
+}
+
+.ozel_cerceve_boyutum img.soru_6_resim {
+    width: 280px;
+    margin: 10px 0 0 0;
+    padding: 0 0 0 40px;
+    float: left;
+}
+
+.cerceve_boyutum img.soru_7_resim {
+    width: 330px;
+    margin: 10px 0 0 50px;
+    padding: 0 0 0 0;
+    float: left;
+}
+
+ul.secenek_listesi li {
+    list-style-type: upper-alpha;
+    margin: 0 0 0 50px;
+}
+
+.soru_basligi {
+    font-size: 50px;
+}
+
+.kronometre {
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 15px;
+}
+
+.cerceve_boyutu p {
+    margin: 0;
+    padding: 0;
+}
+
+.joker_butonlari, .secenek_butonlari, .basla_bitir_butonu {
+    margin: 0;
+    padding: 0;
+}
+
+.joker_butonlari button {
+    width: 150px;
+    height: 100px;
+    margin: 25px 0 0 33px;
+    padding: 0;
+    border-radius: 20px;
+}
+
+.secenek_butonlari button {
+    width: 340px;
+    height: 50px;
+    margin: 25px 0 0 33px;
+    padding: 0;
+    border-radius: 20px;
+}
+
+.basla_bitir_butonu button {
+    width: 280px;
+    height: 50px;
+    margin: 25px 0 0 63px;
+    padding: 0;
+    border-radius: 20px;
+    border: 1px solid;
+    font-weight: bold;
+    font-style: italic;
+    transition-property: background-color;
+    transition-duration: 1200ms;
+}
+
+.basla_bitir_butonu button:hover {
+    font-style: normal;
+}
+/*
+.dogru_renk {
+    background-color: green;
+}
+
+.yanlis_renk {
+    background-color: red;
+}
+*/

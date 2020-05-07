@@ -1,0 +1,25 @@
+#baslangic_mesaji {
+    margin: 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 30px;
+}
+
+#bilgi_okuma_durumu {
+    margin: 10px 5px 0 250px;
+    width: 20px;
+    height: 20px;
+}
+
+#bilgi_durumu {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    text-shadow: 1px 2px;
+}
+
+#kronometreyiKapat {
+    border-radius: 10px;
+}
